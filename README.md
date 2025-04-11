@@ -9,21 +9,20 @@
 - 🏢 I am currently pursuing my studies at Universidad Latina de Costa Rica, with almost a year of academic experience.
 - 🏢 Passionate about software development, particularly in backend development using Java
 - 🎓 Studying Systems Engineering at Universidad Latina Costa Rica.
-- 🎓 Studies for BCS HEQ at [Matrix Institute of Information Technology](http://www.matrix-edu.com/)
 - 🏡'Lives in ** Costa Rica, Guanacaste**
 
 
 
-### My Skills :🧑‍💻
-
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <a href="https://github.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub" width="40" height="40"/>
+### Languages :🧑‍💻
+ <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>   
   
-
-
+### Tools: 
+ ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+  
 
 
 ## Contact me:
 
-- [![Email](https://img.shields.io/badge/email-3DDC84?style=for-the-badge&logo=email&logoColor=white&labelColor=101010)](mailto:nano9gs@hotmail.es)
-- [![LinkedIn](https://img.shields.io/badge/linkedin-3DDC84?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/feryael-justice/)
-
+- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)]()
+- [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)()
+- [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](maucastro621@gmail.com)
